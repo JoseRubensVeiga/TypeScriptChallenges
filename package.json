@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "tsc src/index.ts"
+  },
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "ts-node-server": "^3.6.0-beta.9"
+  }
+}
